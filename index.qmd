@@ -1,11 +1,41 @@
 ---
-title: "mysite"
+title: "Samantha Csik"
+image: headshot.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin # not working
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - icon: twitter # not working
+      text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - icon: github # not working
+      text: GitHub
+      href: https://github.com/samanthacsik
+    - icon: envelope # not working
+      text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
+## **Hi there!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for stopping by my little corner of the internet! My name is Sam Csik, and I'm excited to meet you.
 
-```{r}
-1 + 1
-```
+---
+
+## **Education**
+
+**MS in Ecology, Evolution & Marine Biology** (2020) \| University of California, Santa Barbara \| Santa Barbara, CA
+
+**BS in Marine Biology** (2016) \| Northeastern University \| Boston, MA
+
+---
+
+## **Experience**
+
+**Data Training Coordinator** (2021 - present) \| National Center for Ecological Analysis and Synthesis \| University of California, Santa Barbara, CA
+
+**Data Science Fellow** (2020 - 2021) \| National Center for Ecological Analysis and Synthesis \| University of California, Santa Barbara, CA

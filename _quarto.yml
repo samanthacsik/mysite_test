@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "Samantha Csik"
   navbar:
-    background: primary
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - about.qmd
+     - resources.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: slate
     css: styles.css
 
 editor: visual
