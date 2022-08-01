@@ -6,16 +6,16 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: linkedin # not working
+    - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/samanthacsik/
-    - icon: twitter # not working
+    - icon: twitter 
       text: Twitter
       href: https://twitter.com/SamanthaCsik
-    - icon: github # not working
+    - icon: github 
       text: GitHub
       href: https://github.com/samanthacsik
-    - icon: envelope # not working
+    - icon: envelope 
       text: Email
       href: mailto:scsik@ucsb.edu
 ---
@@ -24,7 +24,7 @@ about:
 
 Thanks for stopping by my little corner of the internet! My name is Sam Csik, and I'm excited to meet you.
 
----
+------------------------------------------------------------------------
 
 ## **Education**
 
@@ -32,7 +32,7 @@ Thanks for stopping by my little corner of the internet! My name is Sam Csik, an
 
 **BS in Marine Biology** (2016) \| Northeastern University \| Boston, MA
 
----
+------------------------------------------------------------------------
 
 ## **Experience**
 

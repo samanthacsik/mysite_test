@@ -14,9 +14,9 @@ website:
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: slate
+    theme: cosmo
+      #light: minty
+      #dark: slate
     css: styles.css
 
 editor: visual
